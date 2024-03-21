@@ -1,4 +1,4 @@
-This repository contains the documentation of one of my projects during the master's study. I created a simple GUI "SPT-Liq v1.0" to automatically perform calculations for liquefaction analysis based on soil investigation data.
+This repository contains the documentation of one of my projects during the master's study. I created a GUI "SPT-Liq v1.0" to automatically perform calculations for liquefaction analysis based on soil investigation data.
 
 ***
 
